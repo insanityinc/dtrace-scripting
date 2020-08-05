@@ -1,0 +1,35 @@
+./../dtraceScripts/profile.d -c ./omp
+Thread 1 state: O
+Starting multiplication.
+Time compute_multiplication: 65.569471 milliseconds.
+Thread 8 state: O
+Thread 4 state: O
+Thread 6 state: O
+Thread 3 state: O
+Thread 5 state: O
+Thread 2 state: O
+Thread 7 state: O
+Solution is CORRECT!
+PID      TID                                      COUNT
+2921     3                                        2
+2921     5                                        2
+2921     7                                        2
+2921     2                                        3
+2921     4                                        3
+2921     6                                        3
+2921     8                                        5
+2921     1                                        1097
+Thread priority distribuition:
+
+
+           value  ------------- Distribution ------------- count    
+             < 0 |                                         0        
+               0 |@@@@@@@@@@@@@@@@@@@@@                    590      
+              10 |@@@@@@@                                  202      
+              20 |@@@@@                                    144      
+              30 |@@@                                      95       
+              40 |@@                                       48       
+              50 |@                                        38       
+              60 |                                         0        
+
+

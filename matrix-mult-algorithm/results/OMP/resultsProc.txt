@@ -1,0 +1,50 @@
+./proc.d 
+thread 2 started
+thread 2 is exiting after 557635781 ns
+thread created
+^C
+Each thread computed for an average of 557635781 ns
+1 threads were successfully created by the main thread
+1 threads created successfully exited
+
+./proc.d 
+thread 4 started
+thread 4 is exiting after 538238913 ns
+thread 3 started
+thread 3 is exiting after 538404632 ns
+thread 2 is exiting after 537621341 ns
+thread 2 started
+thread created
+thread created
+thread created
+^C
+Each thread computed for an average of 538088295 ns
+3 threads were successfully created by the main thread
+3 threads created successfully exited
+
+./proc.d 
+thread 5 started
+thread 3 started
+thread created
+thread created
+thread created
+thread created
+thread created
+thread created
+thread created
+thread 8 started
+thread 7 started
+thread 2 started
+thread 6 started
+thread 4 started
+thread 8 is exiting after 517937725 ns
+thread 6 is exiting after 517467194 ns
+thread 2 is exiting after 517410159 ns
+thread 4 is exiting after 518342534 ns
+thread 3 is exiting after 518117723 ns
+thread 7 is exiting after 518402335 ns
+thread 5 is exiting after 519248901 ns
+^C
+Each thread computed for an average of 518132367 ns
+7 threads were successfully created by the main thread
+7 threads created successfully exited

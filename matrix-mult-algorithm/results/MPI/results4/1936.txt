@@ -1,0 +1,62 @@
+Process spent in the MPI function MPI_Finalize 16906 ns
+Process spent in the MPI function MPI_Barrier 43692 ns
+Process spent in the MPI function MPI_Wtime 102264 ns
+Process spent in the MPI function MPI_Reduce 1144338 ns
+Process spent in the MPI function MPI_Scatter 51503478 ns
+Process spent in the MPI function MPI_Bcast 1380263400 ns
+Time distribuition of time spent on MPI functions
+
+  MPI_Finalize                                      
+           value  ------------- Distribution ------------- count    
+            8192 |                                         0        
+           16384 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+           32768 |                                         0        
+
+  MPI_Barrier                                       
+           value  ------------- Distribution ------------- count    
+           16384 |                                         0        
+           32768 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+           65536 |                                         0        
+
+  MPI_Wtime                                         
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@                                  1        
+            4096 |@@@@@@@@@@@@@@@@@@@@                     3        
+            8192 |@@@@@@@                                  1        
+           16384 |                                         0        
+           32768 |                                         0        
+           65536 |@@@@@@@                                  1        
+          131072 |                                         0        
+
+  MPI_Reduce                                        
+           value  ------------- Distribution ------------- count    
+           16384 |                                         0        
+           32768 |@@@@@@@@@@@@@@@@@@@@                     1        
+           65536 |                                         0        
+          131072 |                                         0        
+          262144 |                                         0        
+          524288 |                                         0        
+         1048576 |@@@@@@@@@@@@@@@@@@@@                     1        
+         2097152 |                                         0        
+
+  MPI_Scatter                                       
+           value  ------------- Distribution ------------- count    
+         4194304 |                                         0        
+         8388608 |@@@@@@@@@@@@@                            1        
+        16777216 |@@@@@@@@@@@@@@@@@@@@@@@@@@@              2        
+        33554432 |                                         0        
+
+  MPI_Bcast                                         
+           value  ------------- Distribution ------------- count    
+       536870912 |                                         0        
+      1073741824 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+      2147483648 |                                         0        
+
+Process called MPI function MPI_Barrier 1 times
+Process called MPI function MPI_Bcast 1 times
+Process called MPI function MPI_Finalize 1 times
+Process called MPI function MPI_Reduce 2 times
+Process called MPI function MPI_Scatter 3 times
+Process called MPI function MPI_Wtime 6 times
+

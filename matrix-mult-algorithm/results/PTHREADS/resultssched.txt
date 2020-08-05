@@ -1,0 +1,117 @@
+./sched.d 
+TID 7 ON CPU 0
+TID 7 OFF CPU 0
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 6 ON CPU 1
+TID 6 OFF CPU 1
+TID 6 ON CPU 1
+TID 6 OFF CPU 1
+TID 5 ON CPU 1
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 5 ON CPU 2
+TID 5 OFF CPU 2
+TID 8 ON CPU 2
+TID 9 ON CPU 2
+TID 1 ON CPU 3
+TID 1 OFF CPU 3
+TID 1 ON CPU 3
+TID 1 OFF CPU 3
+TID 3 ON CPU 4
+TID 3 OFF CPU 4
+TID 7 ON CPU 4
+TID 2 ON CPU 4
+TID 1 ON CPU 4
+TID 1 was preempted
+TID 1 was preempted off CPU 4 by sched
+TID 2 ON CPU 5
+TID 2 OFF CPU 5
+TID 6 ON CPU 5
+TID 1 ON CPU 5
+TID 1 was preempted
+TID 1 was preempted off CPU 5 by sched
+TID 1 ON CPU 5
+TID 1 was preempted
+TID 1 was preempted off CPU 5 by sched
+TID 4 ON CPU 6
+TID 1 ON CPU 6
+TID 1 was preempted
+TID 1 was preempted off CPU 6 by sched
+TID 1 ON CPU 6
+TID 1 was preempted
+TID 1 was preempted off CPU 6 by sched
+TID 1 ON CPU 6
+TID 1 was preempted
+TID 1 was preempted off CPU 6 by sched
+TID 4 ON CPU 7
+TID 4 OFF CPU 7
+TID 3 ON CPU 7
+TID 1 ON CPU 7
+TID 1 was preempted
+TID 1 was preempted off CPU 7 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+^C
+
+
+---- CPU distribution ----
+
+Thread 5 ran for 323692 ns
+Thread 2 ran for 382115 ns
+Thread 6 ran for 507269 ns
+Thread 7 ran for 512814 ns
+Thread 4 ran for 750946 ns
+Thread 3 ran for 1010548 ns
+Thread 1 ran for 1339186128 ns
+Threads were preempted 1 times on CPU 3
+Threads were preempted 1 times on CPU 4
+Threads were preempted 1 times on CPU 7
+Threads were preempted 2 times on CPU 5
+Threads were preempted 3 times on CPU 0
+Threads were preempted 3 times on CPU 6
+Threads were preempted 5 times on CPU 1
+Threads slept 1 times on cpu 0
+Threads slept 1 times on cpu 2
+Threads slept 1 times on cpu 4
+Threads slept 1 times on cpu 5
+Threads slept 1 times on cpu 7
+Threads slept 2 times on cpu 1
+Threads slept 3 times on cpu 3
+Thread 2 slept 1 times 
+Thread 3 slept 1 times 
+Thread 4 slept 1 times 
+Thread 5 slept 1 times 
+Thread 7 slept 1 times 
+Thread 6 slept 2 times 
+Thread 1 slept 3 times 
+Threads on CPU 4 slept for 1096547 ns
+Threads on CPU 5 slept for 1910121 ns
+Threads on CPU 3 slept for 4543704 ns
+Total changes of priorities: 1
+Total dequeues: 3
+Total enqueues: 35
+
+

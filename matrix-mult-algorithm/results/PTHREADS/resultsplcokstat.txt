@@ -1,0 +1,77 @@
+./plockstatcpp.d 
+Tracing...^C
+
+----Adaptive Locks----
+CPU 2          acquired      41223 adaptive locks
+CPU 6          acquired     233835 adaptive locks
+CPU 4          acquired     269936 adaptive locks
+CPU 7          acquired     283100 adaptive locks
+CPU 5          acquired    1132935 adaptive locks
+
+
+
+
+CPU 7          acquired          7 adaptive locks after spin
+CPU 5          acquired         21 adaptive locks after spin
+
+CPU 7          spun      23688 ns to acquire adaptive lock
+CPU 5          spun      60535 ns to acquire adaptive lock
+
+CPU 5          spun an average of       2882 ns to acquire each adaptive lock
+CPU 7          spun an average of       3384 ns to acquire each adaptive lock
+
+CPU 2          released      41223 adaptive locks
+CPU 6          released     233835 adaptive locks
+CPU 4          released     269936 adaptive locks
+CPU 7          released     283100 adaptive locks
+CPU 5          released    1132933 adaptive locks
+
+----Readers/Writer Locks----
+CPU 2          acquired       6205 rw locks
+CPU 6          acquired      35190 rw locks
+CPU 4          acquired      40625 rw locks
+CPU 7          acquired      42605 rw locks
+CPU 5          acquired      73237 rw locks
+
+
+
+
+CPU 2          released       6205 rw locks
+CPU 6          released      35190 rw locks
+CPU 4          released      40625 rw locks
+CPU 7          released      42605 rw locks
+CPU 5          released      73240 rw locks
+
+
+
+----- RW BLOCK TIME DISTRIBUITION -----
+
+
+
+----- SPIN TIME DISTRIBUITION -----
+
+        7
+           value  ------------- Distribution ------------- count    
+             512 |                                         0        
+            1024 |@@@@@@                                   1        
+            2048 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@            5        
+            4096 |@@@@@@                                   1        
+            8192 |                                         0        
+
+        5
+           value  ------------- Distribution ------------- count    
+              64 |                                         0        
+             128 |@@                                       1        
+             256 |@@@@@@                                   3        
+             512 |@@@@                                     2        
+            1024 |@@@@                                     2        
+            2048 |@@@@@@@@@@@@@@@@@                        9        
+            4096 |@@@@@@                                   3        
+            8192 |@@                                       1        
+           16384 |                                         0        
+
+
+
+----- ADAPTIVE LOCK BLOCK TIME DISTRIBUITION -----
+
+

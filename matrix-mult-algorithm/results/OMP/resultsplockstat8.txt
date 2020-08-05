@@ -1,0 +1,62 @@
+NUM_THREADS=8 ./../dtraceScripts/plockstat.d -c ./omp
+Tracing...Starting multiplication.
+Time compute_multiplication: 38.088944 milliseconds.
+Solution is CORRECT!
+
+----Adaptive Locks----
+CPU 7          acquired          1 adaptive locks
+CPU 0          acquired          4 adaptive locks
+CPU 4          acquired         98 adaptive locks
+CPU 6          acquired        117 adaptive locks
+CPU 3          acquired        887 adaptive locks
+CPU 1          acquired       1594 adaptive locks
+
+
+
+
+CPU 6          acquired          2 adaptive locks after spin
+
+CPU 6          spun      94976 ns to acquire adaptive lock
+
+CPU 6          spun an average of      47488 ns to acquire each adaptive lock
+
+CPU 7          released          1 adaptive locks
+CPU 0          released          4 adaptive locks
+CPU 4          released         98 adaptive locks
+CPU 6          released        115 adaptive locks
+CPU 3          released        887 adaptive locks
+CPU 1          released       1595 adaptive locks
+
+----Readers/Writer Locks----
+CPU 4          acquired          8 rw locks
+CPU 6          acquired          8 rw locks
+CPU 3          acquired        123 rw locks
+CPU 1          acquired        327 rw locks
+
+
+
+
+CPU 4          released          8 rw locks
+CPU 6          released          8 rw locks
+CPU 3          released        123 rw locks
+CPU 1          released        328 rw locks
+
+
+
+----- RW BLOCK TIME DISTRIBUITION -----
+
+
+
+----- SPIN TIME DISTRIBUITION -----
+
+        6
+           value  ------------- Distribution ------------- count    
+           16384 |                                         0        
+           32768 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 2        
+           65536 |                                         0        
+
+
+
+----- ADAPTIVE LOCK BLOCK TIME DISTRIBUITION -----
+
+

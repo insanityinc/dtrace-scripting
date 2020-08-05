@@ -1,0 +1,17 @@
+./sys.d 
+Tracing... Hit Ctrl-C to end.
+
+20104 bytes written
+Took 123321 ns to write all 20104 bytes to file
+
+201 bytes written
+Took 34944 ns to write all 201 bytes to file
+
+20104 bytes read
+Took 143434 ns to read all 20104 bytes to file
+
+201 bytes read
+Took 28734 ns to read all 201 bytes to file
+^C
+All bytes were read from the files!
+

@@ -1,0 +1,1404 @@
+./cpc.d 
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+L1 cache miss!
+^C
+
+ ---- L1 CACHE MISSES ----
+
+  omp                                                 libc.so.1`_filbuf                                 
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`_sbrk_unlocked                          
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`get_info_by_class                       
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`read                                    
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`mutex_lock_impl                         
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+               2 |                                         0        
+
+  omp                                                 ld.so.1`core_lookup_sym                           
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`malloc                                  
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 2        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`_free_unlocked                          
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 2        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`lmutex_lock                             
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 2        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`_morecore                               
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 4        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`_malloc_unlocked                        
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 5        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`realfree                                
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 6        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`isupper_l                               
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 6        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`___locale                               
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 9        
+               2 |                                         0        
+
+  omp                                                 libc.so.1`isdigit_l                               
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 11       
+               2 |                                         0        
+
+  omp                                                 omp`clearCache                                    
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 12       
+               2 |                                         0        
+
+  omp                                                 omp`count_non_zeros                               
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 16       
+               2 |                                         0        
+
+  omp                                                 libc.so.1`vfscanf                                 
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 16       
+               2 |                                         0        
+
+  omp                                                 libc.so.1`__mbcurmax_l                            
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 21       
+               2 |                                         0        
+
+  omp                                                 libc.so.1`getc_unlocked                           
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 22       
+               2 |                                         0        
+
+  omp                                                 libc.so.1`__get_current_locale_t                  
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 22       
+               2 |                                         0        
+
+  omp                                                 libc.so.1`fscanf                                  
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 29       
+               2 |                                         0        
+
+  omp                                                 libc.so.1`isspace_l                               
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 33       
+               2 |                                         0        
+
+  omp                                                 0x0                                               
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 35       
+               2 |                                         0        
+
+  omp                                                 omp`check_solution                                
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 68       
+               2 |                                         0        
+
+  omp                                                 omp`create_sparce_matrix                          
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 85       
+               2 |                                         0        
+
+  omp                                                 omp`read_matrix                                   
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 87       
+               2 |                                         0        
+
+  omp                                                 libc.so.1`number                                  
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 125      
+               2 |                                         0        
+
+  omp                                                 libc.so.1`__doscan_u                              
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 175      
+               2 |                                         0        
+
+  omp                                                 omp`compute_multiplication._omp_fn.0              
+           value  ------------- Distribution ------------- count    
+               0 |                                         0        
+               1 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 421      
+               2 |                                         0   

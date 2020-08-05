@@ -1,0 +1,40 @@
+./../dtraceScripts/pid.d -c ./omp
+Tracing started...
+reading Matrix from file
+reading Matrix from file finished!
+reading vector from file
+reading vector from file finished!
+Counting zeros
+Zeros counted!
+creating sparce matrix
+Starting multiplication.
+Sparce matrix created!
+Clearing Cache
+Cache cleared
+computing multiplication
+Time compute_multiplication: 31.958055 milliseconds.
+Solution is CORRECT!
+multiplication computed!
+checking solution
+Solution checked!
+freeing everything
+freed everything
+
+---- NUMBER OF CALLS ----
+CPU 7 called compute_multiplication 1 times
+CPU 5 called check_solution 1 times
+CPU 6 called create_sparce_matrix 1 times
+CPU 6 called count_non_zeros 1 times
+CPU 5 called free_everything 1 times
+CPU 4 called clearCache 1 times
+CPU 6 called read_matrix 1 times
+CPU 6 called read_vector 1 times
+---- TIMES ----
+CPU 5 spent on compute_multiplication  32 ms
+CPU 5 spent on check_solution 477
+CPU 4 spent on create_sparce_matrix 577 ms
+CPU 6 spent on count_non_zeros 345 ms
+CPU 5 spent on free_everything 3 ms
+CPU 7 spent on clearCache 854 ms
+CPU 6 spent on read_matrix 9208 ms
+CPU 6 spent on read_vector 1 ms

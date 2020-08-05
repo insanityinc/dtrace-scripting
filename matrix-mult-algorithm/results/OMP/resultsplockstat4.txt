@@ -1,0 +1,70 @@
+NUM_THREADS=4 ./../dtraceScripts/plockstat.d -c ./omp
+Tracing...Starting multiplication.
+Time compute_multiplication: 42.012696 milliseconds.
+Solution is CORRECT!
+
+----Adaptive Locks----
+CPU 0          acquired          1 adaptive locks
+CPU 7          acquired          2 adaptive locks
+CPU 5          acquired          4 adaptive locks
+CPU 2          acquired         64 adaptive locks
+CPU 3          acquired        159 adaptive locks
+CPU 4          acquired       2497 adaptive locks
+
+
+
+
+CPU 7          acquired          1 adaptive locks after spin
+CPU 2          acquired          2 adaptive locks after spin
+
+CPU 2          spun      17101 ns to acquire adaptive lock
+CPU 7          spun      46262 ns to acquire adaptive lock
+
+CPU 2          spun an average of       8550 ns to acquire each adaptive lock
+CPU 7          spun an average of      46262 ns to acquire each adaptive lock
+
+CPU 0          released          1 adaptive locks
+CPU 7          released          2 adaptive locks
+CPU 5          released          4 adaptive locks
+CPU 2          released         64 adaptive locks
+CPU 3          released        159 adaptive locks
+CPU 4          released       2498 adaptive locks
+
+----Readers/Writer Locks----
+CPU 3          acquired          8 rw locks
+CPU 2          acquired         10 rw locks
+CPU 4          acquired        450 rw locks
+
+
+
+
+CPU 3          released          8 rw locks
+CPU 2          released          9 rw locks
+CPU 4          released        451 rw locks
+
+
+
+----- RW BLOCK TIME DISTRIBUITION -----
+
+
+
+----- SPIN TIME DISTRIBUITION -----
+
+        2
+           value  ------------- Distribution ------------- count    
+            2048 |                                         0        
+            4096 |@@@@@@@@@@@@@@@@@@@@                     1        
+            8192 |@@@@@@@@@@@@@@@@@@@@                     1        
+           16384 |                                         0        
+
+        7
+           value  ------------- Distribution ------------- count    
+           16384 |                                         0        
+           32768 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+           65536 |                                         0        
+
+
+
+----- ADAPTIVE LOCK BLOCK TIME DISTRIBUITION -----
+
+

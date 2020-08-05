@@ -1,0 +1,258 @@
+./syscall.d 
+Tracing... Hit Ctrl-C to end.
+^C
+
+---- TOTAL TIME SPENT BY CPU ON EACH SYSCALL FUNCTION ----
+
+CPU 7 spent in getpid a total of 2143 ns
+CPU 7 spent in lwp_private a total of 2590 ns
+CPU 7 spent in sysi86 a total of 3348 ns
+CPU 7 spent in getrlimit a total of 4313 ns
+CPU 7 spent in sigpending a total of 4413 ns
+CPU 7 spent in ioctl a total of 5100 ns
+CPU 3 spent in fstatat a total of 7485 ns
+CPU 7 spent in setcontext a total of 11001 ns
+CPU 7 spent in sysconfig a total of 11556 ns
+CPU 7 spent in lseek a total of 13989 ns
+CPU 3 spent in clock_gettime a total of 13994 ns
+CPU 7 spent in systeminfo a total of 18414 ns
+CPU 3 spent in ioctl a total of 31995 ns
+CPU 7 spent in mmap a total of 42879 ns
+CPU 7 spent in brk a total of 44456 ns
+CPU 3 spent in write a total of 58766 ns
+CPU 7 spent in getcwd a total of 72385 ns
+CPU 7 spent in memcntl a total of 76395 ns
+CPU 7 spent in close a total of 96902 ns
+CPU 7 spent in fstatat a total of 242244 ns
+CPU 7 spent in resolvepath a total of 250049 ns
+CPU 7 spent in read a total of 255804 ns
+CPU 7 spent in openat a total of 348991 ns
+CPU 7 spent in mmapobj a total of 474351 ns
+
+---- AVERAGE TIME SPENT BY CPU ON EACH SYSCALL FUNCTION ----
+
+CPU 7 spent in getpid an average of 2143 ns
+CPU 7 spent in ioctl an average of 2550 ns
+CPU 7 spent in lwp_private an average of 2590 ns
+CPU 7 spent in sysi86 an average of 3348 ns
+CPU 7 spent in getrlimit an average of 4313 ns
+CPU 7 spent in sigpending an average of 4413 ns
+CPU 7 spent in brk an average of 4939 ns
+CPU 7 spent in setcontext an average of 5500 ns
+CPU 7 spent in sysconfig an average of 5778 ns
+CPU 7 spent in lseek an average of 6994 ns
+CPU 3 spent in clock_gettime an average of 6997 ns
+CPU 3 spent in fstatat an average of 7485 ns
+CPU 7 spent in memcntl an average of 15279 ns
+CPU 7 spent in close an average of 16150 ns
+CPU 7 spent in systeminfo an average of 18414 ns
+CPU 7 spent in mmap an average of 21439 ns
+CPU 7 spent in fstatat an average of 24224 ns
+CPU 3 spent in write an average of 29383 ns
+CPU 3 spent in ioctl an average of 31995 ns
+CPU 7 spent in resolvepath an average of 41674 ns
+CPU 7 spent in openat an average of 49855 ns
+CPU 7 spent in getcwd an average of 72385 ns
+CPU 7 spent in mmapobj an average of 118587 ns
+CPU 7 spent in read an average of 127902 ns
+
+---- TIME DISTRIBUITION ON EACH SYSCALL FUNCTION ----
+
+
+  getpid                                            
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+            4096 |                                         0        
+
+  lwp_private                                       
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+            4096 |                                         0        
+
+  sysi86                                            
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+            4096 |                                         0        
+
+  getrlimit                                         
+           value  ------------- Distribution ------------- count    
+            2048 |                                         0        
+            4096 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+            8192 |                                         0        
+
+  sigpending                                        
+           value  ------------- Distribution ------------- count    
+            2048 |                                         0        
+            4096 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+            8192 |                                         0        
+
+  setcontext                                        
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@@@@@@@@@@@@@@                     1        
+            4096 |@@@@@@@@@@@@@@@@@@@@                     1        
+            8192 |                                         0        
+
+  sysconfig                                         
+           value  ------------- Distribution ------------- count    
+            2048 |                                         0        
+            4096 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 2        
+            8192 |                                         0        
+
+  clock_gettime                                     
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@@@@@@@@@@@@@@                     1        
+            4096 |                                         0        
+            8192 |@@@@@@@@@@@@@@@@@@@@                     1        
+           16384 |                                         0        
+
+  lseek                                             
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@@@@@@@@@@@@@@                     1        
+            4096 |                                         0        
+            8192 |@@@@@@@@@@@@@@@@@@@@                     1        
+           16384 |                                         0        
+
+  systeminfo                                        
+           value  ------------- Distribution ------------- count    
+            8192 |                                         0        
+           16384 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+           32768 |                                         0        
+
+  ioctl                                             
+           value  ------------- Distribution ------------- count    
+             512 |                                         0        
+            1024 |@@@@@@@@@@@@@                            1        
+            2048 |@@@@@@@@@@@@@                            1        
+            4096 |                                         0        
+            8192 |                                         0        
+           16384 |@@@@@@@@@@@@@                            1        
+           32768 |                                         0        
+
+  mmap                                              
+           value  ------------- Distribution ------------- count    
+            4096 |                                         0        
+            8192 |@@@@@@@@@@@@@@@@@@@@                     1        
+           16384 |@@@@@@@@@@@@@@@@@@@@                     1        
+           32768 |                                         0        
+
+  brk                                               
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@@@@@@@@@@@@@@@@                   5        
+            4096 |@@@@@@@@@@@@@                            3        
+            8192 |@@@@                                     1        
+           16384 |                                         0        
+
+  write                                             
+           value  ------------- Distribution ------------- count    
+            2048 |                                         0        
+            4096 |@@@@@@@@@@@@@@@@@@@@                     1        
+            8192 |                                         0        
+           16384 |                                         0        
+           32768 |@@@@@@@@@@@@@@@@@@@@                     1        
+           65536 |                                         0        
+
+  memcntl                                           
+           value  ------------- Distribution ------------- count    
+            2048 |                                         0        
+            4096 |@@@@@@@@                                 1        
+            8192 |@@@@@@@@@@@@@@@@                         2        
+           16384 |@@@@@@@@@@@@@@@@                         2        
+           32768 |                                         0        
+
+  close                                             
+           value  ------------- Distribution ------------- count    
+            2048 |                                         0        
+            4096 |@@@@@@@@@@@@@@@@@@@@                     3        
+            8192 |@@@@@@@@@@@@@                            2        
+           16384 |                                         0        
+           32768 |@@@@@@@                                  1        
+           65536 |                                         0        
+
+  getcwd                                            
+           value  ------------- Distribution ------------- count    
+           32768 |                                         0        
+           65536 |@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1        
+          131072 |                                         0        
+
+  read                                              
+           value  ------------- Distribution ------------- count    
+            8192 |                                         0        
+           16384 |@@@@@@@@@@@@@@@@@@@@                     1        
+           32768 |                                         0        
+           65536 |                                         0        
+          131072 |@@@@@@@@@@@@@@@@@@@@                     1        
+          262144 |                                         0        
+
+  resolvepath                                       
+           value  ------------- Distribution ------------- count    
+            4096 |                                         0        
+            8192 |@@@@@@@@@@@@@                            2        
+           16384 |@@@@@@@                                  1        
+           32768 |@@@@@@@@@@@@@                            2        
+           65536 |@@@@@@@                                  1        
+          131072 |                                         0        
+
+  fstatat                                           
+           value  ------------- Distribution ------------- count    
+            1024 |                                         0        
+            2048 |@@@@@@@                                  2        
+            4096 |@@@@@@@@@@@                              3        
+            8192 |                                         0        
+           16384 |@@@@@@@@@@@                              3        
+           32768 |@@@@@@@                                  2        
+           65536 |@@@@                                     1        
+          131072 |                                         0        
+
+  openat                                            
+           value  ------------- Distribution ------------- count    
+            8192 |                                         0        
+           16384 |@@@@@@@@@@@@@@@@@                        3        
+           32768 |@@@@@@@@@@@@@@@@@                        3        
+           65536 |@@@@@@                                   1        
+          131072 |                                         0        
+
+  mmapobj                                           
+           value  ------------- Distribution ------------- count    
+            4096 |                                         0        
+            8192 |@@@@@@@@@@                               1        
+           16384 |                                         0        
+           32768 |                                         0        
+           65536 |@@@@@@@@@@                               1        
+          131072 |@@@@@@@@@@@@@@@@@@@@                     2        
+          262144 |                                         0        
+
+
+---- TOTAL CALLS FOR EACH SYSTEM CALL BY CPU ----
+
+CPU 3 called fstatat 1 times
+CPU 3 called ioctl 1 times
+CPU 7 called getcwd 1 times
+CPU 7 called getpid 1 times
+CPU 7 called getrlimit 1 times
+CPU 7 called lwp_private 1 times
+CPU 7 called sigpending 1 times
+CPU 7 called sysi86 1 times
+CPU 7 called systeminfo 1 times
+CPU 3 called clock_gettime 2 times
+CPU 3 called write 2 times
+CPU 7 called ioctl 2 times
+CPU 7 called lseek 2 times
+CPU 7 called mmap 2 times
+CPU 7 called read 2 times
+CPU 7 called setcontext 2 times
+CPU 7 called sysconfig 2 times
+CPU 7 called mmapobj 4 times
+CPU 7 called memcntl 5 times
+CPU 7 called close 6 times
+CPU 7 called resolvepath 6 times
+CPU 7 called openat 7 times
+CPU 7 called brk 9 times
+CPU 7 called fstatat 10 times
+

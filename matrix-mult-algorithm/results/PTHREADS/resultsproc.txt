@@ -1,0 +1,32 @@
+./proc.d 
+Tracing...
+thread created
+thread created
+thread created
+thread created
+thread created
+thread created
+thread created
+thread created
+thread 9 started
+thread 9 is exiting after 395382 ns
+thread 8 started
+thread 8 is exiting after 380400 ns
+thread 6 started
+thread 6 is exiting after 514522 ns
+thread 5 started
+thread 7 started
+thread 7 is exiting after 415216 ns
+thread 4 is exiting after 727751 ns
+thread 4 started
+thread 3 started
+thread 5 is exiting after 696160 ns
+thread 2 started
+thread 2 is exiting after 717419 ns
+thread 3 is exiting after 816827 ns
+^C
+Each thread computed for an average of 582959 ns
+8 threads were successfully created by the main thread
+8 threads created successfully exited
+
+

@@ -1,0 +1,309 @@
+./sched.d 
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 was preempted
+TID 1 ON CPU 3
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 1 ON CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 0 by sched
+TID 2 ON CPU 0
+TID 2 OFF CPU 0
+TID 2 ON CPU 0
+TID 2 OFF CPU 0
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 1 ON CPU 1
+TID 1 was preempted
+TID 1 was preempted off CPU 1 by sched
+TID 3 ON CPU 1
+TID 3 OFF CPU 1
+TID 3 ON CPU 1
+TID 3 OFF CPU 1
+TID 3 ON CPU 1
+TID 3 OFF CPU 1
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 was preempted
+TID 1 was preempted off CPU 2 by sched
+TID 1 ON CPU 2
+TID 1 OFF CPU 2
+TID 1 ON CPU 3
+TID 1 was preempted
+TID 1 was preempted off CPU 3 by sched
+TID 2 ON CPU 4
+TID 2 OFF CPU 4
+TID 1 ON CPU 5
+TID 1 OFF CPU 5
+TID 1 ON CPU 5
+TID 4 ON CPU 6
+TID 4 OFF CPU 6
+TID 4 ON CPU 6
+TID 4 OFF CPU 6
+TID 4 ON CPU 6
+TID 4 OFF CPU 6
+TID 2 ON CPU 0
+TID 3 ON CPU 1
+TID 4 ON CPU 3
+TID 1 ON CPU 4
+TID 1 was preempted
+TID 1 was preempted off CPU 4 by sched
+TID 1 was preempted
+TID 1 was preempted off CPU 5 by sched
+TID 1 ON CPU 5
+TID 1 was preempted
+TID 1 was preempted off CPU 5 by sched
+TID 1 ON CPU 7
+TID 1 OFF CPU 7
+TID 1 ON CPU 7
+^C
+
+
+---- CPU distribution ----
+
+Thread 3 ran for 31729892 ns
+Thread 4 ran for 34637249 ns
+Thread 2 ran for 44282338 ns
+Thread 1 ran for 11585320334 ns
+Threads were preempted 1 times on CPU 4
+Threads were preempted 2 times on CPU 5
+Threads were preempted 13 times on CPU 0
+Threads were preempted 18 times on CPU 3
+Threads were preempted 23 times on CPU 1
+Threads were preempted 25 times on CPU 2
+Threads slept 1 times on cpu 2
+Threads slept 1 times on cpu 4
+Threads slept 1 times on cpu 5
+Threads slept 1 times on cpu 7
+Threads slept 2 times on cpu 0
+Threads slept 3 times on cpu 1
+Threads slept 3 times on cpu 6
+Thread 1 slept 3 times 
+Thread 2 slept 3 times 
+Thread 3 slept 3 times 
+Thread 4 slept 3 times 
+Threads on CPU 6 slept for 270432 ns
+Threads on CPU 0 slept for 702409 ns
+Threads on CPU 1 slept for 842674 ns
+Total changes of priorities: 11
+Total enqueues: 100
+
+

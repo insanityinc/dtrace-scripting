@@ -1,0 +1,4 @@
+./traceUSDT.d 
+Tracing started...Non zeros counted: 5893131
+compute_multiplication finished, took 79 ms
+solution check result: 0

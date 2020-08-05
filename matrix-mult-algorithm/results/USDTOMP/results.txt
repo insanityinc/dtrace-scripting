@@ -1,0 +1,22 @@
+./traceUSDT.d
+Tracing started...^C
+Thread 1 computed 2946495 loop iterations
+Thread 2 computed 2946495 loop iterations
+
+./traceUSDT.d
+Tracing started...^C
+Thread 3 computed 1473247 loop iterations
+Thread 4 computed 1473247 loop iterations
+Thread 1 computed 1473248 loop iterations
+Thread 2 computed 1473248 loop iterations
+
+./traceUSDT.d
+Tracing started...^C
+Thread 7 computed 736623 loop iterations
+Thread 8 computed 736623 loop iterations
+Thread 1 computed 736624 loop iterations
+Thread 2 computed 736624 loop iterations
+Thread 3 computed 736624 loop iterations
+Thread 4 computed 736624 loop iterations
+Thread 5 computed 736624 loop iterations
+Thread 6 computed 736624 loop iterations
